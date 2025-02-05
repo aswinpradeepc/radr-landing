@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://radr.in
+
+# Sitemaps
+Sitemap: https://radr.in/sitemap.xml
