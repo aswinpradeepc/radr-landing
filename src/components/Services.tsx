@@ -45,10 +45,10 @@ const services = [
     id: "pollflow",
     title: "Poll Flow",
     icon: ChartBarIcon,
-    description: "Create engaging polls and visualize responses in real-time with beautiful animated charts.",
-    features: ["Real-time Results", "Animated Charts", "Easy Sharing", "Live Demo"],
+    description: "Create engaging polls and visualize responses in real-time with beautiful animated charts, completely free and ad-free.",
+    features: ["Real-time Results", "Animated Charts", "Easy Sharing", "Free, No Ads"],
     tagline: "Engage Your Audience Instantly",
-    url: "https://poll.radr.in"
+    url: "https://polls.radr.in"
   }
 ];
 
