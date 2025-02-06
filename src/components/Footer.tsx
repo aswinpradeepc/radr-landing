@@ -23,7 +23,7 @@ export default function Footer() {
           
           <div className="grid grid-cols-2 gap-8">
             <div>
-              <h4 className="font-outfit font-semibold mb-4 text-white">Services</h4>
+              <h4 className="font-outfit font-semibold mb-4 text-white">Products</h4>
               <ul className="space-y-2">
                 <li>
                   <a href="https://link.radr.in" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-primary transition-colors">LinkRadr</a>
@@ -33,6 +33,9 @@ export default function Footer() {
                 </li>
                 <li>
                   <a href="https://eventsradar.in" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-primary transition-colors">EventsRadar</a>
+                </li>
+                <li>
+                  <a href="https://polls.radr.in" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-primary transition-colors">Poll Flow</a>
                 </li>
               </ul>
             </div>
