@@ -15,7 +15,7 @@ export default function Footer() {
                 rel="noopener noreferrer"
                 className="text-primary hover:text-primary-dark transition-colors"
               >
-                Lamsta.com
+                Lamsta
               </a>
               , powering digital efficiency through innovative solutions.
             </p>
