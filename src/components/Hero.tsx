@@ -40,7 +40,7 @@ export default function Hero() {
             href="#services" 
             className="inline-block bg-primary hover:bg-primary-dark text-dark font-semibold px-8 py-4 rounded-lg transition-all duration-300 hover:scale-105"
           >
-            Explore Our Services
+            Explore Our Products
           </a>
         </motion.div>
       </div>

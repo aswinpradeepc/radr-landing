@@ -36,7 +36,7 @@ export default function ComingSoon() {
           className="text-center mb-16"
         >
           <h2 className="text-4xl font-outfit font-bold text-white mb-4">
-            Future Innovations
+          Upcoming Products
           </h2>
           <p className="text-xl text-gray-400 max-w-2xl mx-auto">
             Exciting new digital solutions on the horizon

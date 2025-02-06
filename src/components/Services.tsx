@@ -69,7 +69,7 @@ export default function Services() {
           className="text-center mb-16"
         >
           <h2 className="text-4xl font-outfit font-bold text-white mb-4">
-            Our Services
+            Our Products
           </h2>
           <p className="text-xl text-gray-400 max-w-2xl mx-auto">
             Powerful digital tools designed to enhance your productivity
